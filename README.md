@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/akashmx007-debug/akashmx007-debug/assets/banner-placeholder.png" alt="Profile Banner" width="100%" />
+  <img src="https://i.postimg.cc/d1LvPP59/profile-banner.jpg" width="100%" />
 </p>
 
 
